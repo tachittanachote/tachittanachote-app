@@ -16,13 +16,13 @@ export default function Home() {
             <div className="mb-3">Software Engineer 👩‍💻</div>
             <div className="flex">
               <div className="mx-3">
-                <a href="https://www.github.com/tachittanachote"><i class="fa-brands fa-github-square"></i></a>
+                <a href="https://www.github.com/tachittanachote"><i className="fa-brands fa-github-square"></i></a>
               </div>
               <div className="mx-3">
-                <a href="https://www.facebook.com/aek.tachittanachote"><i class="fa-brands fa-facebook-square"></i></a>
+                <a href="https://www.facebook.com/aek.tachittanachote"><i className="fa-brands fa-facebook-square"></i></a>
               </div>
               <div className="mx-3">
-                <a href="https://www.instagram.com/https.aek"><i class="fa-brands fa-instagram-square"></i></a>
+                <a href="https://www.instagram.com/https.aek"><i className="fa-brands fa-instagram-square"></i></a>
               </div>
             </div>
             <div className="mt-3 text-[12px]">Powered by Next.js, Github and Vercel 💗</div>
